@@ -6,8 +6,9 @@ Resolvi criar essa apostila para ajudar os alunos da turma do #OTechTáOn 🥰
 
 Nela, você vai aprender sobre:
 - [🎨 Como personalizar o seu README](#como-personalizar-o-seu-readme--voltar-ao-topo)
-- [🖥️ Como instalar o GIT](#como-instalar-o-git--voltar-ao-topo)
+- [🖥️ Como instalar o GIT](#como-instalar-o-git-no-seu-pc--voltar-ao-topo)
 - [👩🏻‍💻 Como puxar um arquivo para o GIT](#como-puxar-arquivos-do-git-para-o-github--voltar-ao-topo)
+- [🥰 Agradecimentos e créditos](#agradecimentos-e-creditos--voltar-ao-topo)
 
 Espero que goste e que eu consiga te ajudar, estou aceitando feedbacks de melhorias sempre!
 #
@@ -123,7 +124,7 @@ Muito legal, né? Inclusive, como eu já falei antes, no [link](https://github.c
 
 #
 ![](https://user-images.githubusercontent.com/69727594/139260476-86cb71b3-abef-4389-ba30-aeed9b37869a.png)
-## Como instalar o GIT ([🔝 Voltar ao topo](#apostila-de-git-e-github))
+## Como instalar o GIT no seu PC ([🔝 Voltar ao topo](#apostila-de-git-e-github))
 Caso você não saiba o que é o GIT, o site da [Atlassian](https://www.atlassian.com/br/git/tutorials/what-is-git) descreve ele nos *mínimos detalhes* 😆
 
 ![](https://user-images.githubusercontent.com/69727594/139262815-1e3f1524-5dbe-4fa5-93bc-db0cd189cd40.png)
@@ -226,7 +227,7 @@ Prontinho, o seu GIT já vai estar instalado no seu computador!
 ![](https://user-images.githubusercontent.com/69727594/139264649-ad9d43e4-b2bf-4f16-bfbf-bb82134999cd.png)
 
 #
-![](https://user-images.githubusercontent.com/69727594/139171071-116e820f-afb8-4466-87f9-93e7326874e9.png)
+![](https://user-images.githubusercontent.com/69727594/139271429-f9ff4ae9-e1a5-416e-afea-08cf05ad6074.png)
 
 ## Como puxar arquivos do GIT para o GitHub ([🔝 Voltar ao topo](#apostila-de-git-e-github))
 Quer puxar um arquivo direto para o GitHub pelo GIT e não sabe como? Siga os passos abaixo!
@@ -309,6 +310,7 @@ Agora, já sabe, né? Não se esqueça de praticar, que tal fazer isso com todos
 
 
 ![](https://user-images.githubusercontent.com/69727594/139257471-6da05d16-5eef-4dc6-8234-278ccbc2030d.png)
+## Agradecimentos e créditos ([🔝 Voltar ao topo](#apostila-de-git-e-github))
 Espero que você tenha gostado do conteúdo e que eu tenha conseguido te ajudar com o GIT e o GitHub, sério. 🥺
 
 Agradecimentos:
