@@ -4,8 +4,8 @@ Opa, tudo bem?
 Resolvi criar essa apostila para ajudar os alunos da turma do #OTechTáOn 🥰
 
 Nela, você vai aprender sobre:
-- 🎨 Como personalizar o seu README principal (o que aparece logo no começo do seu perfil)
-- 👩🏻‍💻 Como puxar um arquivo para o GIT
+- [🎨 Como personalizar o seu README](https://github.com/becabelin/apostila-git-github#como-personalizar-o-seu-readme)
+- [👩🏻‍💻 Como puxar um arquivo para o GIT](https://github.com/becabelin/apostila-git-github/blob/main/README.md#como-puxar-arquivos-do-git-para-o-github)
 
 Espero que goste e que eu consiga te ajudar, estou aceitando feedbacks de melhorias sempre!
 #
