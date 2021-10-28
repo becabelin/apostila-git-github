@@ -8,7 +8,7 @@ Nela, você vai aprender sobre:
 - [🎨 Como personalizar o seu README](#como-personalizar-o-seu-readme--voltar-ao-topo)
 - [🖥️ Como instalar o GIT](#como-instalar-o-git-no-seu-pc--voltar-ao-topo)
 - [👩🏻‍💻 Como puxar um arquivo para o GIT](#como-puxar-arquivos-do-git-para-o-github--voltar-ao-topo)
-- [🥰 Agradecimentos e créditos](#agradecimentos-e-creditos--voltar-ao-topo)
+- [🥰 Agradecimentos e créditos](#agradecimentos-e-créditos--voltar-ao-topo)
 
 Espero que goste e que eu consiga te ajudar, estou aceitando feedbacks de melhorias sempre!
 #
