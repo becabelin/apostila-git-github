@@ -84,7 +84,9 @@ Você pode adicionar emojis digitando ```:NOMEDOEMOJI:```
 
 #### - Badges
 Provavelmente essa é a parte mais legal e que vocês mais querem fazer, certo?
+
 🤷🏻‍♂️: Rebeca? O que é badge?
+
 Bom, badge é isso:
 
 ![image](https://user-images.githubusercontent.com/69727594/139167235-6f1ae6d3-c099-4eba-886b-dafa89fcbc21.png)
