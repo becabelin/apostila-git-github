@@ -17,9 +17,9 @@ Você já deu uma olhada no meu? Se não, clica [nesse link](https://github.com/
 E aí? Gostou? Quer aprender a fazer?
 Então segue o passo a passo (bem detalhado) abaixo! 😁
 
-### 1. Crie um novo repositório (é só clicar em 'New repository')
+### 1. Crie um novo repositório
 
-![](https://user-images.githubusercontent.com/69727594/139163367-b1821800-4760-40a8-bb26-662c6023bbec.png)
+![image](https://user-images.githubusercontent.com/69727594/139245550-99d84086-f64e-4879-bb1d-9db062263094.png)
 
 ### 2. Na seção de nome do repositório, coloque o SEU nick do GitHub
 
@@ -89,7 +89,7 @@ Provavelmente essa é a parte mais legal e que vocês mais querem fazer, certo?
 
 Bom, badge é isso:
 
-![image](https://user-images.githubusercontent.com/69727594/139167235-6f1ae6d3-c099-4eba-886b-dafa89fcbc21.png)
+![](https://user-images.githubusercontent.com/69727594/139167235-6f1ae6d3-c099-4eba-886b-dafa89fcbc21.png)
 
 🤷🏻‍♂️: Uau, muito daora, dá uma colorida legal no README!
 
@@ -107,11 +107,85 @@ Aqui vai um exemplo da badge do VS Code:
 
 ```<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="VS Code">```
 
-![image](https://user-images.githubusercontent.com/69727594/139168041-c69bb5b1-2d43-4bbf-a20c-10b0c6ff517d.png)
+![](https://user-images.githubusercontent.com/69727594/139168041-c69bb5b1-2d43-4bbf-a20c-10b0c6ff517d.png)
 
 Muito legal, né? Inclusive, como eu já falei antes, no [link](https://github.com/alexandresanlim/Badges4-README.md-Profile) que eu botei acima, tem **muitas outras badges super legais**. Todos os parabéns para o [@alexandresanlim](https://github.com/alexandresanlim) e a galera que ajudou ele! 👏🏻
 
 #
-![apostila de git e github](https://user-images.githubusercontent.com/69727594/139171071-116e820f-afb8-4466-87f9-93e7326874e9.png)
+![](https://user-images.githubusercontent.com/69727594/139171071-116e820f-afb8-4466-87f9-93e7326874e9.png)
 
-Essa parte ainda está em desenvolvimento!
+Quer puxar um arquivo direto para o GitHub pelo GIT e não sabe como? Siga os passos abaixo!
+> Só vale se você criou um arquivo/projeto no seu navegador!
+> Ainda não tem o GIT no seu computador? Baixe-o clicando neste [link](https://git-scm.com/downloads). 
+
+### 1. Crie um novo repositório
+
+![](https://user-images.githubusercontent.com/69727594/139245550-99d84086-f64e-4879-bb1d-9db062263094.png)
+
+### 2. Coloque o nome do repositório que você desejar (lembre-se de o nome estar escrito corretamente (sem espaços!)
+
+![](https://user-images.githubusercontent.com/69727594/139245751-59012a7b-b2d2-445c-8c73-60189186527e.png)
+
+### 3. Clique em *Create repository*
+
+![](https://user-images.githubusercontent.com/69727594/139245961-35d153d0-3309-4d0f-b341-32144fc2b2ac.png)
+
+### 4. Ao criar um repoositório, essa tela (só que com as suas informações) vai aparecer para você.
+
+![](https://user-images.githubusercontent.com/69727594/139246104-0226a95d-fe3e-4d8d-9a79-e67c222aee8e.png)
+> Você pode enviar ou criar um arquivo por lá mesmo, mas que tal tentar usando a linha de comando?
+
+### 5. Abra a pasta/local onde estão os arquivos que você quer mandar para o GIT
+
+![](https://user-images.githubusercontent.com/69727594/139246706-8e5f06bc-e769-4460-8191-66777bc62c51.png)
+
+### 6. Com o botão direito do mouse, clique em qualquer lugar da pasta (exceto nos arquivos) e selecione a opção *Open GIT Bash here*
+
+![](https://user-images.githubusercontent.com/69727594/139247076-5756b640-8a54-4fba-80a8-8f5783e20e4b.png)
+
+> Caso você esteja no Windows 11 e essa opção não apareça para você, ao clicar com o botão direito, clique em *Mostrar mais opções*.
+> Agora, se nenhuma opção do GIT aparecer, certifique-se de que você instalou o GIT corretamente.
+
+### 7. Quando você clicar para abrir o GIT Bash, essa tela aparecerá para você (com as suas informações)
+
+![](https://user-images.githubusercontent.com/69727594/139247411-6abaf750-15af-4c07-a9c8-157252f699da.png)
+
+### 8. Digite o comando ```git init``` para iniciar o GIT
+> Provavelmente isso aparecerá na sua tela:
+
+![](https://user-images.githubusercontent.com/69727594/139247613-c162cea4-632a-4f1f-9b24-c81b164d3006.png)
+
+### 9. Adicione os arquivos que deseja que entrem no seu repositório
+Você pode digitar ```git status``` para saber quais arquivos estão disponíveis para serem comitados
+![](https://user-images.githubusercontent.com/69727594/139248740-47f64365-cc7c-431d-ab5b-22bd60d93762.png)
+
+Caso queira adicionar todos os arquivos de uma vez, digite ```git add .```. Se quiser adicionar apenas um, digite ```git add nomedoarquivo``` com o nome do arquivo que você deseja anexar.
+
+No meu caso, eu dei ```git add .``` e adicionei todos de uma vez.
+
+### 10. Agora é a hora de dar o seu commit!
+🤷🏻‍♂️: Quê? O que é um commit?
+
+Segundo o nosso pai Wikipedia, commit *refere-se ao processo de tornar permanente um conjunto de alterações, ou seja, de efetivar as alterações*. Traduzindo: o commit permite que você guarde todas as suas alterações naquele momento, ou seja, você consegue guardar o estado do seu repositório.
+
+Digite ```git commit -m```, escreva o seu primeiro commit e dê enter (não se esqueça das aspas!)
+Veja como eu escrevi:
+
+![](https://user-images.githubusercontent.com/69727594/139248678-6a41d433-a9fe-4184-ab7b-0b460ecbafaa.png)
+
+### 11. Volte para o GitHub e copie as 3 últimas linhas de comando
+
+![](https://user-images.githubusercontent.com/69727594/139248903-707c2e33-58c8-42dd-8b4b-d241f52baf1c.png)
+
+### 12. Cole as três linhas no seu GIT, dê enter e seja feliz!
+
+![](https://user-images.githubusercontent.com/69727594/139249015-cc445be2-79ca-449d-9a80-47999daa8a96.png)
+
+> Se deu algum erro durante o passo a passo para você, certifique-se de que seguiu todos os passos corretamente! Caso ainda esteja com erros, me mande uma mengaem, quem sabe eu não posso te ajudar? 😉
+
+### 13. Recarregue sua página no GitHub
+Você verá que seus arquivos já estarão dentro do seu repositório do GitHub, eba! 🥳
+
+Agora, já sabe, né? Não se esqueça de praticar, que tal fazer isso com todos os seus arquivos de agora em diante? Quem não pratica, não aprende!
+
+
