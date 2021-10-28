@@ -20,7 +20,8 @@ Então segue o passo a passo (bem detalhado) abaixo! 😁
 
 ### 1. Crie um novo repositório
 
-![image](https://user-images.githubusercontent.com/69727594/139245550-99d84086-f64e-4879-bb1d-9db062263094.png)
+![Sem título](https://user-images.githubusercontent.com/69727594/139258753-f915f3f3-fda3-4e1f-aa0d-bb8936130d8a.png)
+
 
 ### 2. Na seção de nome do repositório, coloque o SEU nick do GitHub
 
@@ -63,19 +64,25 @@ Para criar um título, adicione de um a seis símbolos # antes do texto do títu
 #### - Listas
 Você pode criar uma lista não ordenada colocando - ou * antes do seu texto.
 ```
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Batata
+- Arroz
+- Carne
 ```
-![](https://user-images.githubusercontent.com/69727594/139165201-fc39604b-88c4-4c4a-b775-647c844055c6.png)
+
+- Batata
+- Arroz
+- Carne
 
 Para ordenar a lista, coloque um número na frente de cada linha.
 ```
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+1. Batata
+2. Arroz
+3. Carne
 ```
-![](https://user-images.githubusercontent.com/69727594/139165166-1fec80a6-bc85-48a1-851c-afb309ae0bcf.png)
+
+1. Batata
+2. Arroz
+3. Carne
 
 
 #### - Emojis
@@ -118,11 +125,12 @@ Muito legal, né? Inclusive, como eu já falei antes, no [link](https://github.c
 ## Como puxar arquivos do GIT para o GitHub
 Quer puxar um arquivo direto para o GitHub pelo GIT e não sabe como? Siga os passos abaixo!
 > Só vale se você criou um arquivo/projeto no seu navegador!
+
 > Ainda não tem o GIT no seu computador? Baixe-o clicando neste [link](https://git-scm.com/downloads). 
 
 ### 1. Crie um novo repositório
 
-![](https://user-images.githubusercontent.com/69727594/139245550-99d84086-f64e-4879-bb1d-9db062263094.png)
+![Sem título](https://user-images.githubusercontent.com/69727594/139258753-f915f3f3-fda3-4e1f-aa0d-bb8936130d8a.png)
 
 ### 2. Coloque o nome do repositório que você desejar (lembre-se de o nome estar escrito corretamente (sem espaços!)
 
@@ -135,7 +143,7 @@ Quer puxar um arquivo direto para o GitHub pelo GIT e não sabe como? Siga os pa
 ### 4. Ao criar um repoositório, essa tela (só que com as suas informações) vai aparecer para você.
 
 ![](https://user-images.githubusercontent.com/69727594/139246104-0226a95d-fe3e-4d8d-9a79-e67c222aee8e.png)
-> Você pode enviar ou criar um arquivo por lá mesmo, mas que tal tentar usando a linha de comando?
+> Você pode enviar um arquivo clicando em ```uploading an existing file```, mas que tal tentar usando a linha de comando?
 
 ### 5. Abra a pasta/local onde estão os arquivos que você quer mandar para o GIT
 
@@ -146,6 +154,7 @@ Quer puxar um arquivo direto para o GitHub pelo GIT e não sabe como? Siga os pa
 ![](https://user-images.githubusercontent.com/69727594/139247076-5756b640-8a54-4fba-80a8-8f5783e20e4b.png)
 
 > Caso você esteja no Windows 11 e essa opção não apareça para você, ao clicar com o botão direito, clique em *Mostrar mais opções*.
+> 
 > Agora, se nenhuma opção do GIT aparecer, certifique-se de que você instalou o GIT corretamente.
 
 ### 7. Quando você clicar para abrir o GIT Bash, essa tela aparecerá para você (com as suas informações)
@@ -183,7 +192,9 @@ Veja como eu escrevi:
 
 ![](https://user-images.githubusercontent.com/69727594/139249015-cc445be2-79ca-449d-9a80-47999daa8a96.png)
 
-> Se deu algum erro durante o passo a passo para você, certifique-se de que seguiu todos os passos corretamente! Caso ainda esteja com erros, me mande uma mengaem, quem sabe eu não posso te ajudar? 😉
+> Se der algum erro durante o passo a passo para você, certifique-se de que seguiu todos os passos corretamente!
+
+> Caso ainda esteja com erros, me mande uma mensagem, quem sabe eu não posso te ajudar? 😉
 
 ### 13. Recarregue sua página no GitHub
 Você verá que seus arquivos já estarão dentro do seu repositório do GitHub, eba! 🥳
@@ -191,3 +202,12 @@ Você verá que seus arquivos já estarão dentro do seu repositório do GitHub,
 Agora, já sabe, né? Não se esqueça de praticar, que tal fazer isso com todos os seus arquivos de agora em diante? Quem não pratica, não aprende!
 
 
+![](https://user-images.githubusercontent.com/69727594/139257471-6da05d16-5eef-4dc6-8234-278ccbc2030d.png)
+Espero que você tenha gostado do conteúdo e que eu tenha conseguido te ajudar com o GIT e o GitHub, sério. 🥺
+
+Agradecimentos:
+- [Alura](https://www.alura.com.br) e sua equipe de professores, por todo o conhecimento ensinado
+
+Créditos e fontes:
+- [GitHub](https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+- [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
