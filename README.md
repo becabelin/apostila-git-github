@@ -5,15 +5,15 @@ Opa, tudo bem?
 Resolvi criar essa apostila para ajudar os alunos da turma do #OTechTáOn 🥰
 
 Nela, você vai aprender sobre:
-- [🎨 Como personalizar o seu README](#como-personalizar-o-seu-readme)
-- [👩🏻‍💻 Como puxar um arquivo para o GIT](#como-puxar-arquivos-do-git-para-o-github)
+- [🎨 Como personalizar o seu README](#como-personalizar-o-seu-readme--voltar-ao-topo)
+- [👩🏻‍💻 Como puxar um arquivo para o GIT](#como-puxar-arquivos-do-git-para-o-github--voltar-ao-topo)
 
 Espero que goste e que eu consiga te ajudar, estou aceitando feedbacks de melhorias sempre!
 #
 
 
 ![Como personalizar o seu README](https://user-images.githubusercontent.com/69727594/139169703-389698a8-c38b-4c5e-b4e7-f47bbbc485be.png)
-## Como personalizar o seu README ([🔝 Voltar ao topo](#apostila-de-git-e-github)
+## Como personalizar o seu README ([🔝 Voltar ao topo](#apostila-de-git-e-github))
 Você já deu uma olhada no meu? Se não, clica [nesse link](https://github.com/becabelin) para ver.
 
 E aí? Gostou? Quer aprender a fazer?
@@ -123,7 +123,7 @@ Muito legal, né? Inclusive, como eu já falei antes, no [link](https://github.c
 #
 ![](https://user-images.githubusercontent.com/69727594/139171071-116e820f-afb8-4466-87f9-93e7326874e9.png)
 
-## Como puxar arquivos do GIT para o GitHub ([🔝 Voltar ao topo](#apostila-de-git-e-github)
+## Como puxar arquivos do GIT para o GitHub ([🔝 Voltar ao topo](#apostila-de-git-e-github))
 Quer puxar um arquivo direto para o GitHub pelo GIT e não sabe como? Siga os passos abaixo!
 > Só vale se você criou um arquivo/projeto no seu navegador!
 
