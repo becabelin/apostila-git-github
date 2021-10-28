@@ -122,6 +122,8 @@ Aqui vai um exemplo da badge do VS Code:
 
 Muito legal, né? Inclusive, como eu já falei antes, no [link](https://github.com/alexandresanlim/Badges4-README.md-Profile) que eu botei acima, tem **muitas outras badges super legais**. Todos os parabéns para o [@alexandresanlim](https://github.com/alexandresanlim) e a galera que ajudou ele! 👏🏻
 
+Caso você ainda esteja com dúvidas e/ou precisando de ajuda, me manda uma mensagem! Você também pode clonar meu README se quiser, aí você já tem uma base 😉
+
 #
 ![](https://user-images.githubusercontent.com/69727594/139260476-86cb71b3-abef-4389-ba30-aeed9b37869a.png)
 ## Como instalar o GIT no seu PC ([🔝 Voltar ao topo](#apostila-de-git-e-github))
