@@ -122,6 +122,9 @@ Aqui vai um exemplo da badge do VS Code:
 
 Muito legal, né? Inclusive, como eu já falei antes, no [link](https://github.com/alexandresanlim/Badges4-README.md-Profile) que eu botei acima, tem **muitas outras badges super legais**. Todos os parabéns para o [@alexandresanlim](https://github.com/alexandresanlim) e a galera que ajudou ele! 👏🏻
 
+#### Cards
+Acesse esse [link](https://github.com/iuricode/README-template/blob/main/README-cards-stars/cards-stars.md) para ver um tutorial em português de como usar cards!
+
 Caso você ainda esteja com dúvidas e/ou precisando de ajuda, me manda uma mensagem! Você também pode clonar meu README se quiser, aí você já tem uma base 😉
 
 #
@@ -319,6 +322,7 @@ Agradecimentos:
 - [Alura](https://www.alura.com.br) e sua equipe de professores, por todo o conhecimento ensinado
 
 Créditos e fontes:
+- [readme-template](https://github.com/iuricode/README-template/blob/main/README-cards-stars/cards-stars.md)
 - [GitHub](https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [Atlassian](https://www.atlassian.com/br/git/tutorials/what-is-git)
