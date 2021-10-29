@@ -178,7 +178,7 @@ Depois, clique em *Next* novamente.
 
 ### ⚠️ Cuidado com essa parte ⚠️
 
-Você deve selecionar o editor de texto que deve ser utilizado para editar os conflitos que possam aparecer no seu GIT. Eu recomendo que você selecione o *Visual Studio Code*, mas é claro que você é livre para escolher o que quiser.
+Você deve selecionar o editor de texto que deve ser utilizado para editar os conflitos que possam aparecer no seu GIT. Eu recomendo que você selecione o *Visual Studio Code (**sem ser o Insiders**)*, mas é claro que você é livre para escolher o que quiser.
 
 ![](https://user-images.githubusercontent.com/69727594/139270013-3e5c9784-0c67-48e4-8e08-3b0764a47a9e.png)
 
