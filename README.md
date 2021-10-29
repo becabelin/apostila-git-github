@@ -315,6 +315,8 @@ Agora, já sabe, né? Não se esqueça de praticar, que tal fazer isso com todos
 ## Agradecimentos e créditos ([🔝 Voltar ao topo](#apostila-de-git-e-github))
 Espero que você tenha gostado do conteúdo e que eu tenha conseguido te ajudar com o GIT e o GitHub, sério. 🥺
 
+#
+
 Agradecimentos:
 - [Alura](https://www.alura.com.br) e sua equipe de professores, por todo o conhecimento ensinado
 
