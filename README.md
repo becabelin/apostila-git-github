@@ -112,7 +112,7 @@ Para mostrar o badge no seu perfil, você precisa entender que ele é uma *image
 
 🤷🏻‍♂️: Tá, mas como eu faço tudo isso?
 
-É bem tranquilo, você deve usar o código: ```<img src="SEU-LINK" title="SEU-LINK">``` ou ```![TÍTULO]({SEU-LINK})```, substituindo *SEU-LINK* e *título* pelo link e nome certos, claro.
+É bem tranquilo, você deve usar o código: ```<img src="SEU-LINK" title="SEU-LINK">``` ou ```![TÍTULO](SEU-LINK)```, substituindo *SEU-LINK* e *título* pelo link e nome certos, claro.
 
 Aqui vai um exemplo da badge do VS Code:
 
