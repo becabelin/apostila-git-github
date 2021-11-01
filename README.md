@@ -16,6 +16,7 @@ Espero que goste e que eu consiga te ajudar, estou aceitando feedbacks de melhor
 
 ![Como personalizar o seu README](https://user-images.githubusercontent.com/69727594/139169703-389698a8-c38b-4c5e-b4e7-f47bbbc485be.png)
 ## Como personalizar o seu README ([🔝 Voltar ao topo](#apostila-de-git-e-github))
+🎥 [Clique aqui para assistir o tutorial no youtube](https://www.youtube.com/watch?v=8IaRvGceQXQ) <br>
 Você já deu uma olhada no meu? Se não, clica [nesse link](https://github.com/becabelin) para ver.
 
 E aí? Gostou? Quer aprender a fazer?
